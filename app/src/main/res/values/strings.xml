@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">JINADoctor</string>
+    <string name="main_bar_patient">patient</string>
+    <string name="main_bar_advisory">advisory</string>
+    <string name="main_bar_community">community</string>
+    <string name="main_bar_setting">setting</string>
+</resources>

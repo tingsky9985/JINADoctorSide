@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">基纳医生</string>
+
+    <string name="main_bar_patient">患者</string>
+    <string name="main_bar_advisory">咨询</string>
+    <string name="main_bar_community">社区</string>
+    <string name="main_bar_setting">设置</string>
+
+
+</resources>
